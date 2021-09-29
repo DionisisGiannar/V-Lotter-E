@@ -6,7 +6,7 @@ A Virtual E-Lottery named V-Lotter-E / VLE.
 > For Developers
 
 **_Text Version_**
-- [ ] Title Frame
+- [x] Title Frame
 - [ ] Ticket Frame
 - [ ] Number Creation Frame
 - [ ] Results Frame
